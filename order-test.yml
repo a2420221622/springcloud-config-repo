@@ -12,5 +12,5 @@ spring:
 env: 
   test2
 girl:
-  name: bb
-  age: 11
+  name: cc
+  age: 22
